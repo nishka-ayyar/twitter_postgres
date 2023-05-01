@@ -1,4 +1,4 @@
-# Twitter in Postgres
+# Twitter in Postgres  
 [![](https://github.com/nishka-ayyar/twitter_postgres/workflows/tests_denormalized/badge.svg)](https://github.com/nishka-ayyar/twitter_postgres/actions?query=workflow%3Atests)
 [![](https://github.com/nishka-ayyar/twitter_postgres/workflows/tests_normalized/badge.svg)](https://github.com/nishka-ayyar/twitter_postgres/actions?query=workflow%3Atests)
 
